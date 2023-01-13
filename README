@@ -1,4 +1,5 @@
 Intstructions
+- 1 Update API key in script.
 - 0 Run ```python chatGPTchats.py```
 - 1 Choose the number of bots to participate in the chat
 - 2 Choose the number of iterations or rounds in the group discussion.
